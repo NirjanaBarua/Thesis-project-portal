@@ -1,5 +1,8 @@
 # Thesis/Project Web Portal
 
+This GitHub repo is a fork of our team project, **Thesis/Project Web Portal**.  
+See the original at [be-naima/Thesis-project-portal](https://github.com/be-naima/Thesis-project-portal).
+
 This is basically a team project. This platform is designed to manage our university(IIUC) thesis and project defense process through online. The portal streamlines supervisor selection, proposal, pre-defense and defense submission and grading processes while providing role-specific functionalities for students, instructors, and administrators with much more fuctionalities. 
 
 # Features
